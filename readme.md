@@ -45,3 +45,6 @@ docker-compose up --build
 - **Django** - Web framework for building the backend.
 - **Django REST Framework (DRF)** - For building RESTful APIs.
 - **drf-yasg** - For API documentation and Swagger UI generation.
+
+
+You can find the Swagger UI at http://localhost:8000/swagger/.
